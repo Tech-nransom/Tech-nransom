@@ -15,7 +15,7 @@
 
 - 📫 You can reach me on : **yelaiyugandhar@gmail.com**
 
-- 📄 Currently working as an Intern at [https://nutanxt.com/](NutaNXT_Technologies)
+- 📄 Currently working as an Intern at **NutaNXT Technologies**
 
 - ⚡ Fun fact **I think i don't go well with "JAVA" guys🤭**
 
