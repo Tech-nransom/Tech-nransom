@@ -31,5 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tech-nransom&show_icons=true&locale=en&layout=compact" alt="tech-nransom" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tech-nransom&show_icons=true&locale=en" alt="tech-nransom" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tech-nransom&show_icons=true&theme=radical&locale=en" alt="tech-nransom" /></p>
 
