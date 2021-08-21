@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Yugandhar Yelai</h1>
 <h3 align="center">̶J̶A̶C̶K̶ ̶O̶F̶ ̶A̶L̶L̶ Master of One ("Python") who loves Automation</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-nransom&no-bg=true&theme=onestar" alt="tech-nransom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-nransom&no-bg=true&theme=onedark" alt="tech-nransom" /></a> </p>
 
 - 🔭 I’m currently working on **Transcript generation for google meet**
 
