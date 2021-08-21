@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Yugandhar Yelai</h1>
-<h3 align="center"><strike>JACK OF ALL</strike><b>Master Of One ("Python") who loves Automation</b></h3>
+<h3 align="center"><strike>JACK OF ALL</strike><b> Master Of One ("Python") who loves Automation</b></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tech-nransom&no-bg=true&theme=onedark" alt="tech-nransom" /></a> </p>
 
